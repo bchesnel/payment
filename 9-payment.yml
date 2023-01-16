@@ -36,7 +36,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: paymentervice
+  name: paymentservice
 spec:
   selector:
     app: payment
